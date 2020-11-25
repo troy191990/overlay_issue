@@ -1,0 +1,29 @@
+{
+  "StatusCode": 200,
+  "Date": "2020-11-25T15:28:36.7706573+02:00",
+  "Result": [
+    {
+      "HomeOptions": [
+        {
+          "PageName": "EmptyPage",
+          "HomeOptionObjectId": "000000001",
+          "UiOrderId": 0,
+          "IconCode": "0xf0c0",
+          "TextOne": "Works",
+          "TextTwo": "Perfectly",
+          "IsActive": true
+        },
+        {
+          "PageName": "Login",
+          "HomeOptionObjectId": "000000005",
+          "UiOrderId": 1,
+          "IconCode": "0xe67d",
+          "TextOne": "Error",
+          "TextTwo": "",
+          "IsActive": true
+        }
+      ]
+    }
+  ],
+  "Error": null
+}
